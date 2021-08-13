@@ -1,9 +1,8 @@
 ---
 title: "Bank_Marketing_Campaign"
 author: "Amanda Peralta"
-output:
-  pdf_document: default
-  html_document: default
+output: pdf_document
+
 ---
 
 ```{r,include=FALSE,message=FALSE,warning=FALSE}
